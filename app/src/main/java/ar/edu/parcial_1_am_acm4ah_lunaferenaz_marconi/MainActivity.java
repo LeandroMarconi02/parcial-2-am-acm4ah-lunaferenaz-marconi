@@ -73,6 +73,8 @@ public class MainActivity extends AppCompatActivity {
 
             }
         })
+
+
         ;
 //        btnMostrarBarra.setOnClickListener(new View.OnClickListener() {
 //            @Override
